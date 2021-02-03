@@ -12,6 +12,7 @@ $ ./getimg.sh 2021-01-01
 ```
 Important: Use the format YY-MM-DD when calling the script with a date argument!
 
+<img src="https://raw.githubusercontent.com/louis-e/nasa-api-earthpolychromaticimagingcamera/main/demo-img1.jpg" width="400" height="400">
 
 License
 ----
